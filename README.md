@@ -11,5 +11,5 @@
 3) Once you have navigated to the target directory then copy and paste this line into the commandline or terminal and fill in the prompts as needed.
 
 ```
-cookiecutter https://github.com/draperjames/cookiecutter-jupyter-notebook.git
+cookiecutter https://github.com/dmpio/cookiecutter-jupyter-notebook.git
 ```
