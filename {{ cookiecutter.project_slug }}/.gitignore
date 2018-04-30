@@ -112,9 +112,3 @@ venv.bak/
 
 # pickle files
 *.p
-
-# Omin files
-
-*.omin
-
-*.txt
